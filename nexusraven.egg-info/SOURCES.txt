@@ -1,0 +1,9 @@
+README.md
+setup.py
+nexusraven/__init__.py
+nexusraven/client.py
+nexusraven.egg-info/PKG-INFO
+nexusraven.egg-info/SOURCES.txt
+nexusraven.egg-info/dependency_links.txt
+nexusraven.egg-info/requires.txt
+nexusraven.egg-info/top_level.txt
